@@ -27,7 +27,7 @@ I'm a passionate Software Developer.
 
 
 ---
-[![HitCount](http://hits.dwyl.com/matrixjnr/matrixjnr.svg)](http://hits.dwyl.com/matrixjnr/matrixjnr)
+[![HitCount](http://hits.dwyl.com/VelmaAkoch/VelmaAkoch.svg)](http://hits.dwyl.com/VelmaAkoch/VelmaAkoch)
 
 <i>Follow me around the web:</i><br>
 
